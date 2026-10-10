@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Whisper
+whisper/
+
+# Neural network models
+*.onnx
+*.bin
+*.gguf
+
+# Audio recordings
+*.wav
+
+# Local settings
+.env
